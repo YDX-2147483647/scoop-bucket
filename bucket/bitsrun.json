@@ -1,7 +1,7 @@
 {
     "version": "0.3.1",
     "homepage": "https://github.com/spencerwooo/bitsrun-rs",
-    "description": "A simple CLI tool for making tunnels to localhost.",
+    "description": "🌐 A headless login / logout CLI for 10.0.0.55 at BIT, now in Rust. 北京理工大学 10.0.0.55 校园网登录登出的 Rust 实现",
     "license": "MIT",
     "architecture": {
         "32bit": {
