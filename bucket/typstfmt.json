@@ -1,0 +1,16 @@
+{
+    "version": "0.2.6",
+    "homepage": "https://github.com/astrale-sharp/typstfmt",
+    "description": "Basic formatter for the Typst language with a future!",
+    "license": "MIT",
+    "url": "https://github.com/astrale-sharp/typstfmt/releases/download/0.2.6/typstfmt-x86_64-pc-windows-msvc.zip",
+    "hash": "bc46b592d09d0fda351fc7aae101766159b9727e4e677dc285c16730624c37c3",
+    "extract_dir": "typstfmt-x86_64-pc-windows-msvc",
+    "bin": "typstfmt.exe",
+    "checkver": {
+        "github": "https://github.com/astrale-sharp/typstfmt"
+    },
+    "autoupdate": {
+        "url": "https://github.com/astrale-sharp/typstfmt/releases/download/$version/typstfmt-x86_64-pc-windows-msvc.zip"
+    }
+}
