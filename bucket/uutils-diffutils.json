@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/uutils/diffutils/releases/download/$version/diffutils-x86_64-pc-windows-msvc.zip"
+                "url": "https://github.com/uutils/diffutils/releases/download/v$version/diffutils-x86_64-pc-windows-msvc.zip"
             }
         }
     }
