@@ -1,11 +1,11 @@
 {
-    "version": "0.10.13",
+    "version": "0.11.0",
     "homepage": "https://sorairolake.github.io/qrtool/",
     "description": "A command-line utility for encoding or decoding QR code.",
     "license": "Apache-2.0|MIT",
-    "url": "https://github.com/sorairolake/qrtool/releases/download/v0.10.13/qrtool-v0.10.13-x86_64-pc-windows-msvc.7z",
-    "hash": "ba4029327b858d11e6ebbbc8abd6ebe0ffc0e752d91565160b0a27b74107944e",
-    "extract_dir": "qrtool-v0.10.13-x86_64-pc-windows-msvc",
+    "url": "https://github.com/sorairolake/qrtool/releases/download/v0.11.0/qrtool-v0.11.0-x86_64-pc-windows-msvc.7z",
+    "hash": "5a38fa41c2b2af0af65d1d2f4bba16d9bc450c302518a563eb1144066424d82a",
+    "extract_dir": "qrtool-v0.11.0-x86_64-pc-windows-msvc",
     "bin": "qrtool.exe",
     "checkver": {
         "github": "https://github.com/sorairolake/qrtool"
