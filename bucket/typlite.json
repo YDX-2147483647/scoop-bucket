@@ -1,7 +1,7 @@
 {
     "version": "0.13.14",
     "homepage": "https://crates.io/crates/typlite",
-    "description": " Converts a subset of typst to markdown.",
+    "description": "Converts a subset of typst to markdown.",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
