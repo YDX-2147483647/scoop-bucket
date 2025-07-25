@@ -27,7 +27,7 @@
             }
         },
         "hash": {
-            "url": "$baseurl/sha256.sum"
+            "url": "$url.sha256"
         }
     }
 }
