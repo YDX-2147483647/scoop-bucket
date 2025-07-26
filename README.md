@@ -4,6 +4,9 @@
 
 A personal bucket for [Scoop][scoop], the Windows command-line installer.
 
+> [!NOTE]
+> Typst tools in this bucket are deprecated in favor of those in [typst-community/scoop-bucket](https://github.com/typst-community/scoop-bucket).
+
 ## How do I install these manifests?
 
 After manifests have been committed and pushed, run the following:
