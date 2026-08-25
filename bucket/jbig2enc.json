@@ -1,0 +1,30 @@
+{
+    "version": "0.32",
+    "homepage": "https://ocrmypdf.readthedocs.io/en/latest/jbig2.html",
+    "description": "JBIG2 Encoder, suitable for using with OCRmyPDF.",
+    "license": "Apache-2.0",
+    "architecture": {
+        "arm64": {
+            "url": "https://github.com/agl/jbig2enc/releases/download/0.32/jbig2enc-0.32-Windows-ARM64-MSVC.zip",
+            "hash": "f92e416f88cdced3f81e30dd40d92ff8b00948eedf5f33f251517ee2579201f7"
+        },
+        "64bit": {
+            "url": "https://github.com/agl/jbig2enc/releases/download/0.32/jbig2enc-0.32-Windows-X64-MSVC.zip",
+            "hash": "64c3d913b84c849148b965531732af1d7875e0e1448d98f106d7f8aa992c05e0"
+        }
+    },
+    "bin": "bin/jbig2.exe",
+    "checkver": {
+        "github": "https://github.com/agl/jbig2enc"
+    },
+    "autoupdate": {
+        "architecture": {
+            "arm64": {
+                "url": "https://github.com/agl/jbig2enc/releases/download/$version/jbig2enc-$version-Windows-ARM64-MSVC.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/agl/jbig2enc/releases/download/$version/jbig2enc-$version-Windows-X64-MSVC.zip"
+            }
+        }
+    }
+}
